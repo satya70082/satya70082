@@ -44,7 +44,7 @@
 
 ## 📫 Let’s Connect!
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat)]([https://www.linkedin.com/](https://www.linkedin.com/in/satyabrata-panigrahi?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/satyabrata-panigrahi/))
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)](https://github.com/satya70082)
 [![AWS Certification](https://img.shields.io/badge/-AWS%20Certified-FF9900?logo=amazon-aws&logoColor=white&style=flat)](https://aws.amazon.com/certification/)
 
